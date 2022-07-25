@@ -1,0 +1,27 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+body{
+overflow-x: hidden;
+}
+
+.home{
+width: 100%;
+}
+
+.home h1{
+font-size: 70px;
+padding: 20%;
+padding-bottom: 1%;
+font-family: 'Poiret One', cursive;
+text-align: center;
+}
+
+.home h2{
+font-size: 30px;
+font-family: 'Poiret One', cursive;
+text-align: center;
+}
